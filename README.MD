@@ -9,7 +9,7 @@ Before using this tool, you need to create an SQLite database following the stru
 Once your database is set up, you’ll be ready to generate and populate it with data using DBDataGenerator.
 
 ## More Information
-For additional details, insights, or related articles, feel free to visit my <a href ="">LinkedIn</a> or <a href ="">Medium</a> pages. I’d love to connect and hear your thoughts!
+For additional details, insights, or related articles, feel free to visit my <a href ="https://www.linkedin.com/pulse/generate-insert-massive-data-sqlite-databases-ease-hesam-alavi-ywatf/">LinkedIn</a> or <a href ="https://medium.com/@hesam.alavi1380/generate-and-insert-massive-data-into-sqlite-databases-with-ease-2d0b371d663c">Medium</a> pages. I’d love to connect and hear your thoughts!
 
 
 
